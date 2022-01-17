@@ -14,7 +14,7 @@ user.createuser =async(req, res)=>{
     });
 };
 
-
+//
 ///post user data
 user.signup = async (req, res)=>{
         let userdata = req.body;
